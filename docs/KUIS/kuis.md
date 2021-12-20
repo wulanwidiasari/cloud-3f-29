@@ -74,3 +74,6 @@ Berikut ini adalah hasil dari langkah-langkah praktikum :
 5. Cek pada repositories docker hub. Apabila berhasil maka tampilannya seperti gambar dibawah :
 
     ![Screenshot Praktikum](img/17.png)
+
+
+Kuis 02 telah selesai, terimakasih banyak.
